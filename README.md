@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="vikaschennaportfolio.vercel.app">
+<a href="https://vikaschennaportfolio.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome"/>
 </a>
 
