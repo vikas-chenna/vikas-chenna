@@ -254,7 +254,8 @@ A complete web-based event management platform where customers can book events, 
 <img src="https://skillicons.dev/icons?i=html,css,javascript,php,mysql,bootstrap" />
 </p>
 
-**GitHub:** *(Updating Soon)*
+**GitHub:** 
+https://github.com/vikas-chenna/Plantastic-Events
 
 **Live Demo:** *Coming Soon*
 
@@ -283,7 +284,9 @@ An AI-powered business intelligence platform developed during the IBM SkillsBuil
 
 https://insightai-project-delta.vercel.app/
 
-**GitHub:** *(Updating Soon)*
+**GitHub:** 
+
+https://github.com/vikas-chenna/InsightAI-Project
 
 ---
 
