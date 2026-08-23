@@ -135,7 +135,7 @@ Expected Graduation: **2027**
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/vikas-chenna/vikas-chenna/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/vikas-chenna/vikas-chenna/gh-pages/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
