@@ -4,17 +4,18 @@
 
 # 👋 Hi, I'm Vikas Chenna
 
-**Full Stack Developer | MCA Student**
+### Full Stack Developer | MCA Student
 
-Building web applications and learning modern full-stack technologies.
+Building practical web applications and continuously improving my development skills.
 
+<p>
 <a href="https://www.linkedin.com/in/vikaschenna">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="https://vikaschennaportfolio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome"/>
+<img src="https://img.shields.io/badge/Portfolio-2563EB?style=flat-square&logo=google-chrome&logoColor=white"/>
 </a>
+</p>
 
 </div>
 
@@ -22,11 +23,11 @@ Building web applications and learning modern full-stack technologies.
 
 ## About Me
 
-* 🎓 MCA Student at **Veer Narmad South Gujarat University**
-* 💻 Full Stack Developer focused on building real-world web applications
-* 🚀 Experienced with React, JavaScript, PHP, MySQL and modern web technologies
-* 📚 Currently learning the **MERN Stack** and strengthening backend development
-* 🎯 Goal: Build scalable applications and grow as a professional Full Stack Developer
+* 🎓 Pursuing **MCA** at Veer Narmad South Gujarat University
+* 💻 Interested in **Full Stack & Backend Development**
+* 🚀 Building real-world web applications
+* 📚 Currently learning the **MERN Stack**
+* 🎯 Focused on becoming a strong and industry-ready Full Stack Developer
 
 ---
 
@@ -62,49 +63,93 @@ Building web applications and learning modern full-stack technologies.
 
 ### 🌿 Plantastic Events
 
-A web-based event management system with separate Admin, Organizer and Customer modules.
+A web-based event management system with dedicated **Admin, Organizer, and Customer** modules.
 
 **Tech:** HTML • CSS • JavaScript • Bootstrap • PHP • MySQL • PHPMailer
 
-[GitHub Repository](https://github.com/vikas-chenna/Plantastic-Events)
+[View Repository](https://github.com/vikas-chenna/Plantastic-Events)
 
 ---
 
 ### 🤖 InsightAI
 
-AI-powered Business Intelligence Dashboard for analyzing business data and generating actionable insights.
+An AI-powered business intelligence platform designed to help users gain useful insights from business data.
 
 **Tech:** React • Vite • Tailwind CSS • Node.js • Express.js • MongoDB
 
-[Live Demo](https://insightai-project-delta.vercel.app/) • [GitHub Repository](https://github.com/vikas-chenna/InsightAI-Project)
+[Live Demo](https://insightai-project-delta.vercel.app/) • [View Repository](https://github.com/vikas-chenna/InsightAI-Project)
 
 ---
 
 ### 🎓 DevMentor
 
-An AI-assisted learning platform designed to provide developers with learning roadmaps, coding guidance, project ideas and resources.
+An AI-assisted learning platform focused on developer roadmaps, coding guidance, project ideas, and learning resources.
 
-**Status:** Planning / Development
+**Status:** In Development
 
-**Tech:** React • Node.js • Express.js • MongoDB • AI APIs
+**Tech:** React • Node.js • Express.js • MongoDB
 
 ---
 
 ## Currently Learning
 
-`React.js` → `Node.js` → `Express.js` → `MongoDB` → `REST APIs` → `DSA`
+**React → Node.js → Express.js → MongoDB → REST APIs → Data Structures & Algorithms**
 
 ---
 
-## GitHub Stats
+## Experience
+
+### IBM SkillsBuild Virtual Internship
+
+* Completed an Artificial Intelligence & Cloud-focused program
+* Built and deployed an AI-powered capstone project
+* Applied modern web technologies to a real-world project
+
+---
+
+## Education
+
+### Master of Computer Applications — MCA
+
+**Veer Narmad South Gujarat University**
+
+Expected Graduation: **2027**
+
+### Bachelor of Computer Applications — BCA
+
+**Bhagwan Mahavir University**
+
+---
+
+## 🧠 Developer Manifesto
+
+> I believe good software is about solving real problems, not just writing code.
+>
+> Learn continuously. Build consistently. Understand before implementing.
+>
+> Every project is an opportunity to improve.
+
+---
+
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vikas-chenna&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikas-chenna&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://raw.githubusercontent.com/vikas-chenna/vikas-chenna/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 
 </div>
+
+---
+
+## Open to Opportunities
+
+I'm interested in opportunities related to:
+
+* Full Stack Development
+* Web Development
+* Backend Development
+* Software Engineering
+* Internships & Graduate Roles
 
 ---
 
@@ -113,19 +158,19 @@ An AI-assisted learning platform designed to provide developers with learning ro
 <div align="center">
 
 <a href="https://github.com/vikas-chenna">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/vikaschenna">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://vikaschennaportfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
 <a href="mailto:work.vikaschenna@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://vikaschennaportfolio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome"/>
 </a>
 
 </div>
@@ -134,6 +179,8 @@ An AI-assisted learning platform designed to provide developers with learning ro
 
 <div align="center">
 
-**Learn → Build → Improve → Repeat**
+### Thanks for visiting my profile!
+
+**Build • Learn • Improve**
 
 </div>
